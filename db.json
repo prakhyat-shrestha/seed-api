@@ -9,7 +9,18 @@
       "title": "second post"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "categories": [
+    {
+      "id" : 1,
+      "name": "seed cat 1"
+    },
+        {
+      "id" : 2,
+      "name": "seed cat 2"
+    },
+        {
+      "id" : 3,
+      "name": "seed cat 3"
+    }
+    ]
 }
